@@ -29,15 +29,3 @@ http://217.20.112.199/starjalshahd/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest/scale-to-width-down/331?cb=20240322135248" tvg-name="SANGIT BANGLA"  group-title="INDIAN BANGLA",SANGIT BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
-
-#EXTINF:-1 group-title="JagoBD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288",Jamuna TV
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="JagoBD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288",Shomoy TV
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="JagoBD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288",BTV World
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="JagoBD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288",News 24
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
